@@ -1,0 +1,59 @@
+.increase-btn{
+    background-color: orange;
+    justify-content: end;
+    align-items: end;
+    margin-left: 1300px;
+    
+    height: 20px;
+    
+   
+}
+.decrease-btn{
+    background-color: red;
+    justify-content: end;
+    align-items: end;
+    margin-left: 1300px;
+
+    
+}
+.clear-cart{
+    background-color: orange;
+    border-radius: 10%;
+    margin-bottom: 100px;
+   
+}
+.empty-popup{
+    color: red;
+    
+}
+.p-quantity{
+    margin-left: 1300px; 
+}
+.p-name{
+    margin-right: 300px;
+    color: yellowgreen;
+    margin-top: -200px;
+}
+.p-price{
+    margin-right: 270px;
+    color: orchid;
+    font-weight:bold;
+    
+    
+}
+.remove-btn{
+    margin-right: 270px;
+    background-color: red; 
+}
+.image{
+    height: 300px;
+    width:300px;
+    margin-right: 800px;
+    background-color:aquamarine
+}
+body{
+    background-color: aquamarine;
+}
+.inc-dec-btn{
+
+}

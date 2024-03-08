@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: blueviolet;
+  color: white;
+  padding: 10px,20px;
+  height: 100px;
+}
+.cart-icons{
+  /* margin-right: 100px; */
+  font-weight: 600;
+}
+.cart_quantity{
+  
+  color: orangered;
+  font-size: xx-large;
+  font-weight: 2000;
+  
+
+}
